@@ -1,0 +1,48 @@
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+  border-radius: 90px;
+}
+th{
+    width: 200px;
+    text-align: center;
+    padding: 15px;
+    background-color:rgb(36, 113, 163);
+    color: whitesmoke;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+td{
+    border: 2px solid;
+    background-color: whitesmoke;
+    padding: 10px;
+    
+}
+.tabledata{
+    border: none;
+    background-color: transparent;
+    margin-top: -30px;
+   margin-left: 30px;
+   border-bottom: none;
+   border-radius: none;
+   
+}
+.edit{
+    border-radius: 20px;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    font-weight: bold;
+
+}
+.delete{
+    border-radius: 20px;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    background-color: rgb(236, 61, 61);
+    font-weight: bold;
+}
+.Notecontainer{
+    margin-top: 150px;
+    margin-left: 260px;
+}

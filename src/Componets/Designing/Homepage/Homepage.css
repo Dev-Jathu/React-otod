@@ -1,0 +1,124 @@
+.grid{
+    display: grid;
+    grid-template-columns: 719px 500px;
+    margin-left: 100px;
+    margin-top: 20px;
+    box-shadow: .2rem .2rem 40px rgb(155, 155, 155);
+    background-color: rgb(76, 153, 241);
+    gap: 10px;
+    border-radius: 20px;
+
+
+}
+.logos{
+    display: grid;
+    grid-template-columns: 90px 100px;
+}
+.logo img{
+    height: 90px;
+}
+.homecontainer{
+    width: 70%;
+    height: 100px;
+    margin-left: 240px;
+    margin-top: 60px;
+}
+.formlogin{
+    display: flex;
+
+}
+.logoname{
+    margin-top: 24px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 22px
+}
+.paragraph{
+    font-size: 44px;
+    width: 520px;
+    margin-top: 200px;
+    font-weight: bold;
+
+}
+.formadd{
+    margin-left: -100px;
+    /* margin-top: 260px; */
+
+}
+.Signin{
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 90px;
+    font-weight: bold;
+    background-color: whitesmoke;
+    transition: .7s;
+}
+.Signin:hover{
+    background-color: blue;
+    color: whitesmoke;
+}
+.Email{
+    margin-top: 40px;
+}
+.adjust{
+    margin-left: -80px;
+    margin-top: -460px;
+    display: flex;
+}
+
+.parasignup{
+    font-size: 18px;
+    width: 300px;
+    margin-top: 350px;
+    text-align: left;
+}
+
+.Signup{
+    border-radius: 20px;
+    margin-top: 70px;
+    /* margin-left: 00px; */
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: blue;
+    color: whitesmoke;
+    transition: .7s;
+
+}
+.Signup:hover{
+    background-color: red;
+}
+.formalign{
+    margin-left: 110px;
+    /* background-color: aqua; */
+    
+}
+.signuppage{
+    background-color: rgb(248, 248, 230);
+    /* margin-top: -140px; */
+    height: 700px;
+}
+.newhere{
+    width: 800px;
+    margin-left: 80px;
+    font-size: 44px;
+    font-weight: bold;
+   
+}
+.signadjust{
+    margin-top: -145px;
+}
+.signaboutpara{
+    margin-left: 80px;
+    width: 250px;
+}
+.Email{
+    width: 400px;
+    height: 50px;
+    /* border-top: none; */
+    margin-left: 100px;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 40px;
+}
